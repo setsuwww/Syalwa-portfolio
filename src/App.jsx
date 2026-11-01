@@ -11,6 +11,7 @@ export default function App() {
   return (
     <div className="min-h-screen bg-[#F4F2FB] font-body text-[#23204A] antialiased">
       <Header />
+      
       <main>
         <Hero />
         <About />
@@ -18,7 +19,9 @@ export default function App() {
         <Portfolio />
         <Contact />
       </main>
+      
       <Footer />
+      
     </div>
   );
 }
