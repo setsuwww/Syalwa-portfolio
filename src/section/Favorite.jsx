@@ -3,7 +3,7 @@ import SectionTitle from "../components/SectionTitle";
 const favorites = [
   { title: "Buku", items: ["Laskar Pelangi", "Atomic Habits", "Filosofi Teras"] },
   { title: "Musik", items: ["Indie pop", "Lo-fi", "Soundtrack film"] },
-  { title: "Makanan", items: ["Nasi goreng", "Matcha latte", "Es krim stroberi"] },
+  { title: "Drink`n Food", items: ["Nasi goreng", "Matcha latte", "Es krim stroberi"] },
   { title: "Hobi", items: ["Journaling", "Fotografi", "Menggambar digital"] },
 ];
 
